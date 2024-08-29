@@ -1,0 +1,12 @@
+apiVersion: v2
+name: apihelm-chart
+description: Un microservicio en .NET C#
+
+
+type: application
+
+
+version: 0.1.0
+
+
+appVersion: "1.0"
